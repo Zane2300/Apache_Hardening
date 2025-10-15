@@ -106,6 +106,12 @@ Cada práctica incluye capturas en la carpeta `assets/` y el detalle de configur
 
 ---
 
+## 📄 Licencia
+
+Este repositorio se publica bajo **MIT License**. Consulta el archivo [`LICENSE`](LICENSE).
+
+---
+
 ## ✍️ Autor
 **Alex Rosell** — Técnico en Ciberseguridad y Administración de Sistemas.  
 Repositorio: `Apache_Hardening`
