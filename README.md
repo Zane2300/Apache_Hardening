@@ -1,4 +1,4 @@
-# 🚀 Apache Security Hardening — Proyecto de Prácticas
+# 🚀 Apache Security Hardening
 
 [![Apache](https://img.shields.io/badge/Server-Apache-orange)]()
 [![Security](https://img.shields.io/badge/Security-Hardening-red)]()
@@ -17,9 +17,7 @@ Apache_Hardening/
 ├── 2 - WAF/                # ModSecurity y reglas
 ├── 3 - OWASP/              # OWASP CRS y reglas personalizadas
 ├── 4 - DDOS/               # mod_evasive y mitigación de tráfico excesivo
-├── assets/                 # Capturas de pantalla y evidencias
-├── README.md               # Este documento
-└── LICENSE                 # Licencia del proyecto
+└── README.md               # Este documento
 ```
 
 ---
@@ -108,6 +106,6 @@ Cada práctica incluye capturas en la carpeta `assets/` y el detalle de configur
 
 ---
 
-## 📌 Autor
+## ✍️ Autor
 **Alex Rosell** — Técnico en Ciberseguridad y Administración de Sistemas.  
 Repositorio: `Apache_Hardening`
